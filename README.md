@@ -9,3 +9,4 @@ Content covered:
 5. Out-of-Core Classification of Text Documents --> An example showing the implementation of scikit-learn for classication using out-of-core approach (learning from data that doesn't fit into main memory) on Reuters dataset.
 6. Trees --> Implementation of the sklearn decision trees classes, Classification, Regression.
 7. TotallyRandomTrees --> RandomTreesEmbedding, compairing BernoulliNB with ExtraTreesClassifier.
+8. Manifold Learning --> Illustrating embedding techniques(IsoMap, Locally Linear Embedding, MDS, Spectral Embedding, t-SNE) on the digits datasets.
