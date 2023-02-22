@@ -10,3 +10,4 @@ Content covered:
 6. Trees --> Implementation of the sklearn decision trees classes, Classification, Regression.
 7. TotallyRandomTrees --> RandomTreesEmbedding, compairing BernoulliNB with ExtraTreesClassifier.
 8. Manifold Learning --> Illustrating embedding techniques(IsoMap, Locally Linear Embedding, MDS, Spectral Embedding, t-SNE) on the digits datasets.
+9. Ensembles --> Bagging, Random Forest, Extermely Randomized Trees, AdaBoost, Gradient Boosting, Histogram based Gradient Boosting, Voting, Stacking. 
